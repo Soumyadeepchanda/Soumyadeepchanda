@@ -64,7 +64,7 @@
 </div> -->
 
 <div align="center" style="display: flex; flex-direction: row;">
-<img class="img"  src="https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical" />
+<img class="img"  src="https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical" /><br><br>
   <img class="img"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepchanda&layout=compact" alt="Rick Staa's Language stats" />
 </a> 
   </div>
