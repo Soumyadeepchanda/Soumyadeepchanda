@@ -41,5 +41,14 @@
 </p>
 
 <h2>Activity</h2>
+<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical)
 <br>
+
+<div margin="20px">
+  <p>
+    <p>
+      <img src="img/waves_.svg" alt="Waves SVG">
+    </p>
+  </p>
+</div>
