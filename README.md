@@ -64,8 +64,8 @@
 </div> -->
 
 <div align="center" style="display: flex; flex-direction: row;">
-<img class="img" height=450 width=450  src="https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical" />
-  <img class="img" height=450 width=470 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepchanda&layout=compact" alt="Rick Staa's Language stats" />
+<img class="img"  src="https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical" />
+  <img class="img"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepchanda&layout=compact" alt="Rick Staa's Language stats" />
 </a> 
   </div>
 
