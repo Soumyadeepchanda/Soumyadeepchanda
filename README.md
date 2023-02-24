@@ -1,9 +1,16 @@
-### Hi there 👋
+👋
 
-<!--
-**Soumyadeepchanda/Soumyadeepchanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hyprex-deva/Portfolio/blob/main/Screenshot%202022-08-30%20202715.jpg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hyprex-deva/Portfolio/blob/main/Screenshot%202022-08-30%20202715.jpg?raw=true">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
