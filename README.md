@@ -40,10 +40,35 @@
   </ul>
 </p>
 
+
+<div align="center">
+
+  <h2>Languages</h2>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=8" alt="Technologies">
+  <br><br>
+   <h2>Database</h2>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=8" alt="Technologies">
+  <br><br>
+   <h2>Web-Dev</h2>
+      <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="Technologies">
+  <br><br>
+ <h2>Software Tools</h2>
+      <img src="https://skillicons.dev/icons?i=vscode,&perline=1" alt="Technologies">
+  <br><br>
+  </div>
+  
 <h2>Activity</h2>
-<br>
-![github stats](https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical)
-<br>
+<!-- <div style="display: flex; flex-direction: row;">
+ <img class="img height=450 width=450"  src="https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical" />
+ <img class="img  height=450 width=450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepchanda&theme=radical&layout=compact" />
+</div> -->
+
+<div align="center" style="display: flex; flex-direction: row;">
+<img class="img" height=450 width=450  src="https://github-readme-stats.vercel.app/api?username=Soumyadeepchanda&show_icons=true&theme=radical" />
+  <img class="img" height=450 width=470 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepchanda&layout=compact" alt="Rick Staa's Language stats" />
+</a> 
+  </div>
+
 
 <div margin="20px">
   <p>
