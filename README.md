@@ -10,18 +10,17 @@
 
 ## About Me 😎:
 
-🎓 I'm currently studying B.Tech 3rd year<br>
-🔭 I’m currently working on Data Cleaning<br>
-🌱 I’m currently learning ML<br>
+🎓 I'm currently a Data engineer at LTImindtree<br>
+🔭 I’m work on SQL and Python<br>
+🌱 Lots of data everywhere<br>
 ⚡ I’m a dedicated and fast learner<br>
-😄 Pronouns: He/Him<br>
 🔭 My Hobbies include:
  <ul>
       <li>Reading books</l1>
       <li>Exploring the Planet</li>
-      <li>Watching Marvel and Anime</li>
-      <li>Reading Comics and Manga</li>
-      <li>Graphics Design, and Digital Art</li>
+      <li>Sketching</li>
+      <li>Playing Table Tennis</li>
+      <li>Hands on keyboard</li>
 </ul>
 
 <!--
